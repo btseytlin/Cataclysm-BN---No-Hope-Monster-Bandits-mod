@@ -1,0 +1,18 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "no_hope_monster_bandits",
+    "name": "No Hope Monster Bandits",
+    "authors": [ "Night_Pryanik", "echoloth" ],
+    "maintainers": [ "literally no one" ],
+    "description": "No Hope, but bandit npcs are replaced with monster bandits from \"Compatible Add Bandits\" by Malkeus",
+    "category": "content",
+    "dependencies": [ "dda", "GOV_BANDITS" ],
+    "version": "3.0"
+  },
+  {
+    "type": "monster_adjustment",
+    "species": "ZOMBIE",
+    "flag": { "name": "REVIVES", "value": false }
+  }
+]
